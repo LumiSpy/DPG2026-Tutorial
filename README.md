@@ -17,7 +17,7 @@ To follow the interactive tutorials and make maximum use of the limited time ava
 Remember to bring a fully charged battery, as there will be limited power outlets in the room
 
 
-## Installing HyperSpy
+## Install HyperSpy:
 
 Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/install.html). The [HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/) ships a python environment including all relevant packages. The demo notebooks have been tested to run on the HyperSpy bundle version `2025.08.07`. Some of the examples might not run with older HyperSpy versions (`<2.0.0` / bundle releases up to `2023.11.20`) and we do not guarantee for operation with newer HyperSpy versions, though the syntax/API should not change until the next major release (`v3.0.0`) will be released.
 
@@ -30,7 +30,7 @@ If you already have python installed on your system and prefer not installing th
 Otherwise, have a look at the full [list of packages included in the HyperSpy-bundle](https://hyperspy.org/hyperspy-bundle/index.html#included-software-and-libraries).
 
 
-## Download tutorial for local execution:
+## Download tutorial files for local execution:
 
 The tutorials are based on [Jupyter Notebooks](http://jupyter.org/).
 
@@ -45,7 +45,7 @@ The tutorial is split in four jupyter notebooks to cater both for participants w
 The relevant datasets are provided in the subfolder `data`.
 
 
-## Launch jupyter-lab
+## Launch jupyter-lab:
 
 Beforehand, please try to already launch `jupyter-lab` on your computer, open the first tutorial notebook and try to run the first cell - to ensure your local installation is working and debug your installation if needed. That way, we can directly dive into the HyperSpy usage during the tutorials.
 
@@ -54,7 +54,7 @@ There are multiple ways to start `jupyter-lab`, see for example the [JupyterLab 
 *(if you run into problems, come a bit early - a number of experienced colleagues can help you get started)*
 
 
-## Introduction to python
+## Introduction to python:
 
 If you are new to programming or programming with python, we recommend the [W3 schools Python Tutorial](https://www.w3schools.com/python/default.asp).
 

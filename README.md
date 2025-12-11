@@ -12,7 +12,7 @@ Dresden, March 8, 2026 | 16:00-18:15 h
 
 we are happy to introduce you to data analysis using [HyperSpy](https://hyperspy.org) and its extensions [RosettaSciIO](https://hyperspy.org/rosettasciio/), [LumiSpy](https://lumispy.org), [exSPy](https://hyperspy.org/exspy) and [pyXem](https://pyxem.readthedocs.io/). 
 
-To follow the interactive tutorials and make maximum use of the limited time available, we kindly ask you to bring your laptop and execute the following three steps prior to arriving at the tutorial (for further details see below).
+To follow the interactive tutorials and make maximum use of the limited time available, we kindly ask you to bring your laptop and execute the following three steps prior to arriving at the tutorial (for further details see below):
 
 1. [Install HyperSpy](#install-hyperspy)
 2. Download the example notebooks by clicking the button below and extract the Zip file to a folder on your system
@@ -21,7 +21,7 @@ To follow the interactive tutorials and make maximum use of the limited time ava
 
 3. Verify that you can load and execute the first sample notebook
 
-Remember to bring a fully charged battery, as there will be limited power outlets in the room
+Remember to bring a fully charged battery, as there will be limited power outlets in the room.
 
 
 ## Install HyperSpy:

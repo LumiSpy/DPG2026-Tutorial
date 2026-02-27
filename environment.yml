@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - python=3.12
   - lumispy=0.3.0
   - hyperspy-base=2.4.0
   - exspy=0.3.2

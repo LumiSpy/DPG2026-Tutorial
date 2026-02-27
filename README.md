@@ -4,7 +4,7 @@ Tutorial for the **[DPG Spring Meeting of the Condensed Matter Section (SKM) 202
 
 Dresden, March 8, 2026 | 16:00-18:15 h
 
-**Note: This tutorial is still work in progress, the final version will be available latest on March 1, 2026**
+**Note: This tutorial is still work in progress, the final version will be available latest on March 5, 2026**
 
 ---------------
 
@@ -26,7 +26,7 @@ Remember to bring a fully charged battery, as there will be limited power outlet
 
 ## Install HyperSpy:
 
-Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/install.html). The [HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/) ships a python environment including all relevant packages. *The demo notebooks have been tested to run on the HyperSpy bundle version `2025.12.06`. Some of the examples might not run with older HyperSpy versions (`<2.0.0` / bundle releases up to `2023.11.20`) and we do not guarantee for operation with newer HyperSpy versions, though the syntax/API should not change until the next major release (`v3.0.0`) will be released.*
+Follow the [installation guide for the HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/install.html). The [HyperSpy bundle](https://hyperspy.org/hyperspy-bundle/) ships a python environment including all relevant packages. *The demo notebooks have been tested to run on the HyperSpy bundle version `2026.02.05`. Some of the examples might not run with older HyperSpy versions (`<2.0.0` / bundle releases up to `2023.11.20`) and we do not guarantee for operation with newer HyperSpy versions, though the syntax/API should not change until the next major release (`v3.0.0`) will be released.*
 
 If you already have python installed on your system and prefer not installing the bundle, we recommend creating a new environment for the tutorial and installing at least the following packages using *pip* or *conda*:
 

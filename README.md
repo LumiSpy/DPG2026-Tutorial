@@ -46,8 +46,8 @@ The tutorials are based on [Jupyter Notebooks](http://jupyter.org/).
 The tutorial is split in four jupyter notebooks to cater both for participants with ot without precious experience using HyperSpy:
 - `DPG26_1_HyperSpy-RosettaSciIO.ipynb` - A basic introduction to get started with core functionalitie
 - `DPG26_2_LumiSpy.ipynb`- for luminescence spectroscopy
-- `DPG26_3_exSPY.ipynb` - for electron energy loss spectroscopy (EELS)
-- `DPG26_4_pyXem.ipynb` - for crystallographic diffraction microscopy, e.g. 4D-STEM
+- `DPG26_3_eXSpy.ipynb` - for electron energy loss spectroscopy (EELS)
+- `DPG26_4_pyxem.ipynb` - for crystallographic diffraction microscopy, e.g. 4D-STEM
 
 The relevant datasets are provided in the subfolder `data`.
 

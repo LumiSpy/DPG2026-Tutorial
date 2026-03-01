@@ -10,7 +10,7 @@ Dresden, March 8, 2026 | 16:00-18:15 h
 
 **Dear attendants of the tutorial session at DPG Dresden,**
 
-we are happy to introduce you to data analysis using [HyperSpy](https://hyperspy.org) and its extensions [RosettaSciIO](https://hyperspy.org/rosettasciio/), [LumiSpy](https://lumispy.org), [exSPy](https://hyperspy.org/exspy) and [pyXem](https://pyxem.readthedocs.io/). 
+We are happy to introduce you to data analysis using [HyperSpy](https://hyperspy.org) and its extensions [RosettaSciIO](https://hyperspy.org/rosettasciio/), [LumiSpy](https://lumispy.org), [exSPy](https://hyperspy.org/exspy) and [pyXem](https://pyxem.readthedocs.io/).
 
 To follow the interactive tutorials and make maximum use of the limited time available, we kindly ask you to bring your laptop and execute the following three steps prior to arriving at the tutorial (for further details see below):
 
@@ -43,11 +43,11 @@ The tutorials are based on [Jupyter Notebooks](http://jupyter.org/).
 
 **[Download the tutorial notebooks and demo data as zip file](https://github.com/LumiSpy/DPG2026-Tutorial/archive/refs/heads/main.zip)** from this repository and unpack in a local directory.
 
-The tutorial is split in four jupyter notebooks to cater both for participants with ot without precious experience using HyperSpy:
-- `DPG26_1_HyperSpy-RosettaSciIO.ipynb` - A basic introduction to get started with core functionalitie
+The tutorial is split in four jupyter notebooks to cater both for participants with or without previous experience using HyperSpy:
+- `DPG26_1_HyperSpy-RosettaSciIO.ipynb` - A basic introduction to get started with core functionalities
 - `DPG26_2_LumiSpy.ipynb`- for luminescence spectroscopy
 - `DPG26_3_eXSpy.ipynb` - for electron energy loss spectroscopy (EELS)
-- `DPG26_4_pyxem.ipynb` - for crystallographic diffraction microscopy, e.g. 4D-STEM
+- `DPG26_4_pyxem.ipynb` - Analysing magnetic and structural 4D-STEM data
 
 The relevant datasets are provided in the subfolder `data`.
 
@@ -58,7 +58,7 @@ Beforehand, please try to already launch `jupyter-lab` on your computer, open th
 
 There are multiple ways to start `jupyter-lab`, see for example the [JupyterLab User Guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) or the [Ansys JupyterLab Quick Start Guide](https://developer.ansys.com/blog/jupyterlab-quick-start). If you installed the HyperSpy bundle:
 - (on Windows): you will find the "HyperSpy-bundle prompt" in your Start Menu. Open this application, and change to the directory where you unzipped the files via the [`cd` command](https://www.geeksforgeeks.org/operating-systems/cd-cmd-command/). Once in the right directory, execute the `jupyter lab` command to start Jupyter
-- (on MacOS or Linux): from a terminal window, change to the directory where you unzipped the files, and execute the `jupyter` command from the `bin/` directory of the bundle installation. This will look something like: 
+- (on MacOS or Linux): from a terminal window, change to the directory where you unzipped the files, and execute the `jupyter` command from the `bin/` directory of the bundle installation. This will look something like:
   - `cd /Users/username/Downloads/hyperspy_tutorial/`
   - `/Users/username/hyperspy-bundle/bin/jupyter lab`
 
